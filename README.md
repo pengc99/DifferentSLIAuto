@@ -22,6 +22,8 @@ Windows Test Sign Mode MUST be enabled for the patched drivers to load!
    Q: SignTool lists multiple certificates suitable for signing  
    A: Follow all steps in post below  
    http://www.techpowerup.com/forums/threads/sli-with-different-cards.158907/page-54#post-3215633  
+   Q: Can I sign the nvlddmkm.sys file and run it without putting Windows in Test Mode?
+   A: Yes! https://andrewpeng.net/computing/enabling-sli-on-a-dell-precision-690-with-geforce-video-cards
 ####History
 ---
    version 1.3 20/02/15 First GitHub release, tweaked Install.cmd, updated tools folder  
